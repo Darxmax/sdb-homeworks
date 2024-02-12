@@ -40,15 +40,16 @@
 ## Овтет
 
 Сетевые службы, разрешенные на ВМ Metasploitable:
- 21 порт FTP;
- 22 порт SSH;
- 80 порт http.
+
+1. 21 порт FTP;
+2. 22 порт SSH;
+3. 80 порт http.
 
 Уязвимости, обнаруженные на ВМ Metasploitable:
 
- vsftpd 2.3.4;
- MySQL 5.0.x;
- Apache Tomcat 5.5.0.
+1. [vsftpd 2.3.4](https://www.exploit-db.com/exploits/49757);
+2. [MySQL 5.0.x](https://www.exploit-db.com/exploits/29724);
+3. [Apache Tomcat 5.5.0](https://www.exploit-db.com/exploits/12343).
 
 
 ### Задание 2
